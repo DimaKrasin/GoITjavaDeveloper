@@ -8,3 +8,4 @@ DROP TABLE IF EXISTS developers_skills;
 DROP TABLE IF EXISTS developers_projects;
 DROP TABLE IF EXISTS companies_projects;
 DROP TABLE IF EXISTS customers_projects;
+DROP TABLE IF EXISTS tmp;
